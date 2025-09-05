@@ -1,0 +1,6 @@
+#Utilities
+.DS_Store
+
+#Secrets
+t2t_secret.json
+discord_secret.json
